@@ -1,0 +1,35 @@
+/*
+
+displayblock 
+inline
+inline-block
+
+
+block: se despliegan en todo el espacio disponible en pantalla
+inline: palabras en oracion. se separan por un espacio en blanco entre ellos 
+
+
+
+display: block; ---display: inline-flex;
+                            inline-grid;
+
+
+
+
+display: inline; ---display: inline-flex
+                             inline-grid;
+
+
+
+  ------------------FORMATO DE CONTEXTO: BFC --------------------
+  *mini structuras en una estructura general
+  posicion: absoluta y fixed. 
+  
+  
+
+
+  --------POCISIONAMIENTO + DINAMICA-------
+
+  
+*/
+
